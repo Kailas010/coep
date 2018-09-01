@@ -1,0 +1,327 @@
+/* Colors */
+
+.orange{
+	color: #fe781e !important;
+}
+
+.purple{
+	color: #9C27B0 !important;
+}	
+
+.blue{
+	color: #1570a6 !important;
+}
+
+.green{
+	color: #41bb19 !important;
+}
+
+.lblue{
+	color: #2196F3 !important;
+}
+
+.pink{
+	color: #E91E63 !important;
+}
+
+.teal{
+	color: #009688 !important;
+}
+
+.yellow{
+	color: #FFEB3B !important;
+}
+
+.brown{
+	color: #795548 !important;
+}
+
+
+.red{
+	color: #F44336 !important;
+}
+
+/* Background colors */
+.b-pink{
+	background: #E91E63;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;
+}
+
+.b-pink:hover{
+	background: #C51162;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+}
+
+.b-yellow{
+	background:#FFEB3B;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;
+}
+
+.b-yellow:hover{
+	background:#F57F17;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+}
+
+.b-orange{
+	background: #fe781e;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;
+}
+
+.b-orange:hover{
+	background: #e66d1c;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+}
+
+.b-teal{
+	background: #009688;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;
+}
+
+.b-teal:hover{
+	background: #004D40;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+}
+
+.b-brown{
+	background: #795548;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;
+}
+
+.b-brown:hover{
+	background: #3E2723;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+}
+
+.b-purple{
+	background: #9b59bb;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;	
+}
+
+.b-purple:hover{
+	background: #81499c;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+.b-blue{
+	background:  #3F51B5;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;		
+}
+
+.b-blue:hover{
+	background: #11608f;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+.b-green{
+	background: #41bb19;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;	
+}
+
+.b-green:hover{
+	background: #379e15;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+.b-black{
+	background: #333333;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;	
+}
+
+.b-black:hover{
+	background: #000000;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+.b-lblue{
+	background: #1ba1e2;
+	color: #fff;
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;	
+}
+
+.b-lblue:hover{
+	background: #0D47A1;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+.b-red{
+	background: #ff3738;
+	color: #fff;
+    
+	margin: 3px 0px;
+	display: inline-block;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;	
+	cursor:default;	
+}
+.hw{
+    
+    height: 50%;
+    width: 50%;
+    
+}
+.b-red:hover{
+	background: #e33031;
+	-webkit-transition:background 1s ease;
+	-moz-transition:background 1s ease;
+	-o-transition:background 1s ease;
+	transition:background 1s ease;		
+}
+
+/* Columns */
+
+.col-l{
+	width: 47.5%;
+	float: left;
+}
+
+.col-r{
+	width: 47.5%;
+	float: right;
+}
+
+
+
+
+
+/* Color blocks */
+
+.c-block a, .c-block a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+.c-block > div{
+	color: #fff;
+height: 100px;
+    width: 100px;
+	font-size: 16px;
+	text-align: center;
+	padding: 10px 0px;
+}
+
+.c-block i{
+	font-size: 40px;
+	display: block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+@media (max-width: 767px){
+	
+}
+
+@media (min-width: 768px) and (max-width: 979px){
+ 	.dropdown-menu{
+ 		border: 0px !important;
+ 	}
+ 	.dropdown-menu a{
+ 		border: 0px !important;
+ 	}
+}
+
+@media (max-width: 979px){
+
+}
